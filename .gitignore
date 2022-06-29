@@ -128,12 +128,12 @@ Desktop.ini
 .merge_file*
 
 ######################
-# Gradle Wrapper
+# Gradle Wrapper. Means include
 ######################
 !gradle/wrapper/gradle-wrapper.jar
 
 ######################
-# Maven Wrapper
+# Maven Wrapper. Means include
 ######################
 !.mvn/wrapper/maven-wrapper.jar
 
